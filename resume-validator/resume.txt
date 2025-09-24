@@ -1,0 +1,4 @@
+Isra Tazmeen
+Email: isra.tazmeen@example.com
+Phone: 9876543210
+Skills: C++, JavaScript, React, System Design
